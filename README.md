@@ -1,10 +1,8 @@
 # SAMPLE OF MY WORK ON DAILY BASIS IN LOGISTICS COMPANY
 (1) I have shared details about uploading three Monthly samples, including an MIS (Management Information System) data file, which serves as the main data sample.
 The "Main data sample" file contains the following sheets:
-
 Delhivery mis
 Primex mis
-Sheet1
 Weight mis
 
 (2) The "MIS " file contains a  sheet named weight file,dead file.
